@@ -1,0 +1,6 @@
+git
+
+git --version
+
+git clone <remote_repository_url>
+
